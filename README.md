@@ -6,7 +6,7 @@
 
 Building REST APIs and data-driven systems with Python and Java.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-3a393741a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-3a393741a)
 
 </div>
 
@@ -22,11 +22,20 @@ I also work with **Java**, **C#**, and **JavaScript**, and I'm comfortable movin
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cs,js&theme=dark" alt="Python, Java, C# and JavaScript" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,cs,js,ts&theme=dark" alt="Python, Java, C#, JavaScript and TypeScript" />
   <br />
   <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,dotnet&theme=dark" alt="FastAPI, Flask, Spring Boot and .NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite and Tailwind CSS" />
+  <br />
+  <img src="https://cdn.simpleicons.org/langchain/58A6FF" width="48" height="48" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/langgraph/58A6FF" width="48" height="48" alt="LangGraph" />
+  <img src="https://cdn.simpleicons.org/ollama/58A6FF" width="48" height="48" alt="Ollama" />
+  <img src="https://raw.githubusercontent.com/weaviate/docs/main/static/img/site/icon.svg" height="48" alt="Weaviate" />
+  <img src="https://raw.githubusercontent.com/langfuse/langfuse-docs/main/public/brand-assets/icon/monochrome/langfuse-icon-monochrome-white.svg" width="48" height="48" alt="Langfuse" />
+  <img src="https://cdn.simpleicons.org/modelcontextprotocol/58A6FF" width="48" height="48" alt="Model Context Protocol" />
   <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL and MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle SQL" />
@@ -38,9 +47,8 @@ I also work with **Java**, **C#**, and **JavaScript**, and I'm comfortable movin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="48" height="48" alt="JUnit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="48" height="48" alt="Cucumber" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="48" height="48" alt="Vitest" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48" height="48" alt="SonarQube" />
-  <br />
-  <sub>JaCoCo · PITest</sub>
 </p>
 
 ## Certifications
