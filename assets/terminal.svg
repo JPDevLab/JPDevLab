@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="terminalTitle terminalDesc">
+  <title id="terminalTitle">Terminal running a FastAPI application</title>
+  <desc id="terminalDesc">A terminal window showing a FastAPI server starting with Uvicorn, a health check request, and a JSON response.</desc>
+
+  <defs>
+    <clipPath id="line1">
+      <rect x="28" y="58" width="700" height="22" fill="#fff">
+        <set attributeName="width" to="0" begin="0s" />
+        <animate attributeName="width" from="0" to="700" dur="0.7s" begin="0.3s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="line2">
+      <rect x="28" y="88" width="700" height="22" fill="#fff">
+        <set attributeName="width" to="0" begin="0s" />
+        <animate attributeName="width" from="0" to="700" dur="0.9s" begin="1.1s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="line3">
+      <rect x="28" y="118" width="700" height="22" fill="#fff">
+        <set attributeName="width" to="0" begin="0s" />
+        <animate attributeName="width" from="0" to="700" dur="0.7s" begin="2.1s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="line4">
+      <rect x="28" y="148" width="700" height="22" fill="#fff">
+        <set attributeName="width" to="0" begin="0s" />
+        <animate attributeName="width" from="0" to="700" dur="0.6s" begin="2.9s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="line5">
+      <rect x="28" y="178" width="700" height="22" fill="#fff">
+        <set attributeName="width" to="0" begin="0s" />
+        <animate attributeName="width" from="0" to="700" dur="0.5s" begin="3.6s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="258" rx="12" fill="#0D1117" />
+  <path d="M13 1H747A12 12 0 0 1 759 13V43H1V13A12 12 0 0 1 13 1Z" fill="#161B22" />
+  <rect x="1" y="1" width="758" height="258" rx="12" fill="none" stroke="#30363D" stroke-width="2" />
+  <line x1="1" y1="43" x2="759" y2="43" stroke="#30363D" stroke-width="1" />
+
+  <circle cx="22" cy="22" r="5.5" fill="#FF5F56" />
+  <circle cx="42" cy="22" r="5.5" fill="#FFBD2E" />
+  <circle cx="62" cy="22" r="5.5" fill="#27C93F" />
+
+  <text x="380" y="26" text-anchor="middle" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">jpdevlab — zsh</text>
+
+  <text x="28" y="74" clip-path="url(#line1)" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#58A6FF">$&#160;</tspan><tspan>uvicorn app.main:app --reload</tspan></text>
+  <text x="28" y="104" clip-path="url(#line2)" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#3FB950">INFO:</tspan><tspan>&#160;&#160;&#160;&#160;&#160;Uvicorn running on http://127.0.0.1:8000</tspan></text>
+  <text x="28" y="134" clip-path="url(#line3)" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#3FB950">INFO:</tspan><tspan>&#160;&#160;&#160;&#160;&#160;Application startup complete.</tspan></text>
+  <text x="28" y="164" clip-path="url(#line4)" fill="#C9D1D9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#58A6FF">$&#160;</tspan><tspan>curl -s localhost:8000/health</tspan></text>
+  <text x="28" y="194" clip-path="url(#line5)" fill="#A5D6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">{"status": "ok"}</text>
+
+  <rect x="168" y="180" width="8" height="18" rx="1" fill="#58A6FF" opacity="1">
+    <set attributeName="opacity" to="0" begin="0s" />
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.51;0.99;1" dur="1s" begin="4.1s" repeatCount="indefinite" />
+  </rect>
+</svg>

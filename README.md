@@ -2,7 +2,7 @@
 
 # Juan Pablo Acevedo
 
-### Backend Developer · Software Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Backend+Developer;Python+Developer;Software+Engineering+Student" alt="Backend Developer, Python Developer and Software Engineering Student" />
 
 Building REST APIs and data-driven systems with Python and Java.
 
@@ -15,6 +15,10 @@ Building REST APIs and data-driven systems with Python and Java.
 I'm a **Software Engineering student** focused on **Backend Development**, with **Python** as my main language. I build REST APIs, work with relational and NoSQL databases, and enjoy turning business rules into clean, testable code.
 
 I also work with **Java**, **C#**, and **JavaScript**, and I'm comfortable moving across the stack when a project needs it. My main interests are API design, database modeling, and automated testing.
+
+<p align="center">
+  <img src="./assets/terminal.svg" width="760" alt="Terminal showing a FastAPI application starting with Uvicorn" />
+</p>
 
 ## Tech Stack
 
