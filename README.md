@@ -2,7 +2,7 @@
 
 # Juan Pablo Acevedo
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Backend+Developer;Python+Developer;Software+Engineering+Student" alt="Backend Developer, Python Developer and Software Engineering Student" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Backend+Developer;Software+Engineering+Student" alt="Backend Developer and Software Engineering Student" />
 
 Building REST APIs and data-driven systems with Python and Java.
 
@@ -22,32 +22,30 @@ I also work with **Java**, **C#**, and **JavaScript**, and I'm comfortable movin
 
 ## Tech Stack
 
-**Languages**
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,cs,js&theme=dark" alt="Python, Java, C# and JavaScript" />
-</p>
-
-**Backend & Frameworks**
-
-<p align="center">
+  <br />
   <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,dotnet&theme=dark" alt="FastAPI, Flask, Spring Boot and .NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
-</p>
-
-**Databases**
-
-<p align="center">
+  <br />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL and MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gradle,maven,githubactions&theme=dark" alt="Docker, Git, GitHub, Gradle, Maven and GitHub Actions" />
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" height="48" alt="pytest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="48" height="48" alt="JUnit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="48" height="48" alt="Cucumber" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="48" height="48" alt="SonarQube" />
+  <br />
+  <sub>JaCoCo · PITest</sub>
 </p>
 
-**Tools**
+## Certifications
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" alt="Docker, Git and GitHub" />
-</p>
+- **MED-52. Integrating Project 8 (2026 H1)** — SoftServe Academy · [Verify](https://career.softserveinc.com/certification/verification)
 
 ## GitHub Stats
 
@@ -55,11 +53,3 @@ I also work with **Java**, **C#**, and **JavaScript**, and I'm comfortable movin
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JPDevLab&theme=tokyonight" alt="JPDevLab GitHub stats" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JPDevLab&theme=tokyonight" alt="JPDevLab most used languages" />
 </p>
-
-<div align="center">
-
----
-
-**Backend Development · Python · Java · SQL**
-
-</div>
