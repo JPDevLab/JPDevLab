@@ -23,26 +23,36 @@ I also work with **Java**, **C#**, and **JavaScript**, and I'm comfortable movin
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cs,js,ts&theme=dark" alt="Python, Java, C#, JavaScript and TypeScript" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,spring,dotnet&theme=dark" alt="FastAPI, Flask, Spring Boot and .NET" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="React, Vite and Tailwind CSS" />
-  <br />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" />
   <img src="https://cdn.simpleicons.org/langchain/58A6FF" width="48" height="48" alt="LangChain" />
   <img src="https://cdn.simpleicons.org/langgraph/58A6FF" width="48" height="48" alt="LangGraph" />
   <img src="https://cdn.simpleicons.org/ollama/58A6FF" width="48" height="48" alt="Ollama" />
   <img src="https://raw.githubusercontent.com/weaviate/docs/main/static/img/site/icon.svg" height="48" alt="Weaviate" />
   <img src="https://raw.githubusercontent.com/langfuse/langfuse-docs/main/public/brand-assets/icon/monochrome/langfuse-icon-monochrome-white.svg" width="48" height="48" alt="Langfuse" />
   <img src="https://cdn.simpleicons.org/modelcontextprotocol/58A6FF" width="48" height="48" alt="Model Context Protocol" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL and MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="SQL Server" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gradle,maven,githubactions&theme=dark" alt="Docker, Git, GitHub, Gradle, Maven and GitHub Actions" />
-  <br />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="48" height="48" alt="Gradle" />
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48" alt="Maven" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" height="48" alt="pytest" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="48" height="48" alt="JUnit" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="48" height="48" alt="Cucumber" />
